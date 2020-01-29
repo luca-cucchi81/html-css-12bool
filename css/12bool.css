@@ -56,7 +56,7 @@
 }
 
 /*==TABLET==*/
-@media screen and (min-width: 768px) and (max-width: 991px) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
 
     .col-md-01 {
         width: calc((100% / 12) * 1);
