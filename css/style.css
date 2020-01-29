@@ -35,10 +35,10 @@ header h1 {
 }
 
 
-.ciao, .nome {
+.ciao, .nome, .studente {
     margin-top: 20px;
     text-align: center;
     line-height:100px;
-    font-size: 30px;
+    font-size: 20px;
     color: #ffffff;
 }
