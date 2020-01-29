@@ -16,7 +16,7 @@
     margin: 0 auto;
 }
 
-[class*=".col-"]{
+[class*="col-"]{
     float: left;
 }
 
