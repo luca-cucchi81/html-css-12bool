@@ -21,6 +21,8 @@
 }
 
 /*==MOBILE==*/
+@media screen and (max-width: 767px) {
+
 .col-xs-01 {
     width: calc((100% / 12) * 1);
 }
@@ -57,9 +59,10 @@
 .col-xs-12 {
     width: calc((100% / 12) * 12);
 }
+}
 
 /*==TABLET==*/
-@media screen and (min-width: 768px) and (max-width: 992px) {
+@media screen and (min-width: 768px) and (max-width: 991px) {
 
     .col-md-01 {
         width: calc((100% / 12) * 1);

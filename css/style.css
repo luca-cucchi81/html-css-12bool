@@ -30,8 +30,8 @@ header h1 {
     color: #ffffff;
 }
 
-/* ==PRIMO GIOCO==*/
-.ciao {
+
+.ciao, .nome {
     height: 100px;
     margin-top: 20px;
     text-align: center;
